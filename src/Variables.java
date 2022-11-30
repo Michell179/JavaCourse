@@ -16,6 +16,5 @@ public class Variables {
         int numero = 322470434;
         int cedula = 1002924290;
         boolean allow = true;
-
     }
 }
